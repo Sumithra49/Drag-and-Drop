@@ -1,8 +1,9 @@
-# React + Vite
+## DND
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Implement Drag and Drop: Develop a feature that allows users to drag and drop items within a list. Create a todo list
+where user can drag and drop the items into tabs like todo, in-progress, review, done and closed.
 
-Currently, two official plugins are available:
+Submit the gitHub repo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Deployed link
+ https://drag-and-drop-mu-ten.vercel.app/
